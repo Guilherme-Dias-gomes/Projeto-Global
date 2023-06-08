@@ -246,6 +246,7 @@ header {
     }
 
     .div-conteudo-1 img{
+        margin-bottom: 2em;
         width: 27em;
     }
 
@@ -345,6 +346,10 @@ header {
     }
 
     .div-conteudo-1 img{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
         width: 27em;
     }
 
